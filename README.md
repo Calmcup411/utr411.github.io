@@ -1,8 +1,9 @@
 ## Welcome to utr411 Pages
 
-You can use the [editor on GitHub](https://github.com/utaking2883/utr411.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Thank you for coming to my web site.
+This page is maintained by Github Pages.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm on Scratch and Discord.
 
 ### Markdown
 
