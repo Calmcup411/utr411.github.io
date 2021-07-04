@@ -1,8 +1,10 @@
 ## Welcome to utr411 Self Introduction Page.
 
-You can use the [editor on GitHub](https://github.com/utaking2883/utr411.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I use [Editor on GitHub]
+(https://github.com/utaking2883/utr411.github.io/edit/main/index.md) to create website content in markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I use Scratch, Discord, Minecraft, Steam and many other places.
+Just look for me!
 
 ### Markdown
 
